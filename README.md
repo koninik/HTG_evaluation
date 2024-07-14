@@ -1,1 +1,3 @@
-# HTG_evaluation
+# Evaluation Protocol for Handwriting Text Generation systems
+
+Code coming soon!
