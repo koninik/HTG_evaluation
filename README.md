@@ -12,9 +12,10 @@
 
 ## 📢 Introduction
 
-<div style="display: flex; flex-direction: column; align-items: center; ">
-<img src="imgs/metrics_htg.png" style="width: 70%;">
-</div>
-<p align="center" style="margin-bottom: 10px;">
-Overview of the proposed metrics
+<p align="center">
+  <img src="imgs/metrics_htg.png" alt="Overview of the proposed metrics" style="width: 70%;">
+</p>
+
+<p align="center">
+  Overview of the proposed metrics
 </p>
