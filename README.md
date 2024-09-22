@@ -13,7 +13,7 @@
 ## 📢 Introduction
 
 <p align="center">
-  <img src="imgs/metrics_htg.png" alt="Overview of the proposed metrics" style="width: 70%;">
+  <img src="imgs/metrics_htg.png" alt="Overview of the proposed metrics" style="width: 80%;">
 </p>
 
 <p align="center">
