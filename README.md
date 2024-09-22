@@ -13,7 +13,7 @@
 ## 📢 Introduction
 
 <div style="display: flex; flex-direction: column; align-items: center; ">
-<img src="imgs/metrics_htg.png" style="width: 90%;">
+<img src="imgs/metrics_htg.png" style="width: 70%;">
 </div>
 <p align="center" style="margin-bottom: 10px;">
 Overview of the proposed metrics
