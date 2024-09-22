@@ -1,6 +1,4 @@
-<p align='center'>
  # 🔥 Rethinking HTG Evaluation: Bridging Generation and Recognition
-</p> 
 
  <p align='center'>
   <b>
