@@ -7,6 +7,9 @@
     <a href="">Paper</a>
     |
     <a href="">Poster</a>
+    |
+    <a href="https://sites.google.com/view/cegis-workshop">CEGIS Workshop - ECCV 2024</a>
+    
   </b>
 </p> 
 
